@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="nlw-connect" title="#nlw-connect" src="../.github/logo.svg" width="250px" />
+</h1>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
