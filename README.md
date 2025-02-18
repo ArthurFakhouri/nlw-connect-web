@@ -1,6 +1,10 @@
-<h1 align="center">
+
+<div align="center">
+    <img alt="nlw-co" title="#nlw-co" src=".github/favicon.webp" width="100px" />
+</div>
+<div align="center">
     <img alt="nlw-connect" title="#nlw-connect" src=".github/logo.svg" width="250px" />
-</h1>
+</div>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
