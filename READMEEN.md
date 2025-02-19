@@ -1,5 +1,5 @@
 ### 🌐 EN-US
-#### [PT-BR](https://github.com/ArthurFakhouri/nlw-connect-web)
+#### [PT-BR](https://github.com/ArthurFakhouri/nlw-connect-web/blob/main/README.md)
 
 <div align="center">
     <img alt="nlw-co" title="#nlw-co" src=".github/favicon.webp" width="100px" />
