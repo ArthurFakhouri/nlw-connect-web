@@ -50,6 +50,10 @@ Go to the folder where you cloned the project, open the terminal and run the com
 
 
 
+https://github.com/user-attachments/assets/e8702f60-7801-4861-a412-9518e6e06f55
+
+
+
 
 
 ## 🚀 Techs
